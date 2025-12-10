@@ -1,1 +1,1 @@
-Code will be public when the paper is published.
+This is the official implementation code for strokeflow.
